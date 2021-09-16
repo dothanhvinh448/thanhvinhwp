@@ -12,17 +12,25 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/vinh/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dothanhvinh448.github.io/thanhvinhwp</link>
 	<description></description>
-	<lastBuildDate>Wed, 15 Sep 2021 12:16:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Sep 2021 06:46:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://dothanhvinh448.github.io/thanhvinhwp/wp-content/uploads/2021/09/images.png</url>
+	<title>vinh &#8211; Thiết kế nội thất hiện đại</title>
+	<link>https://dothanhvinh448.github.io/thanhvinhwp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Xu Hướng Thiết Kế Nội Thất Phong Cách Mới</title>
 		<link>https://dothanhvinh448.github.io/thanhvinhwp/xu-huong-thiet-ke-noi-that-da-mau-sac/</link>
-					<comments>https://dothanhvinh448.github.io/thanhvinhwp/xu-huong-thiet-ke-noi-that-da-mau-sac/#respond</comments>
+					<comments>https://dothanhvinh448.github.io/thanhvinhwp/xu-huong-thiet-ke-noi-that-da-mau-sac/#comments</comments>
 		
 		<dc:creator><![CDATA[vinh]]></dc:creator>
 		<pubDate>Wed, 15 Sep 2021 05:16:19 +0000</pubDate>
@@ -160,7 +168,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://dothanhvinh448.github.io/thanhvinhwp/xu-huong-thiet-ke-noi-that-da-mau-sac/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
