@@ -8,28 +8,36 @@
 	>
 
 <channel>
-	<title>Chưa phân loại &#8211; THÀNH Vinh</title>
+	<title>Chưa phân loại &#8211; Thiết kế nội thất hiện đại</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dothanhvinh448.github.io/thanhvinhwp</link>
-	<description>Blog Đầu Tiên Của Đỗ Thành Vinh</description>
-	<lastBuildDate>Wed, 15 Sep 2021 12:16:53 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Thu, 16 Sep 2021 06:46:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://dothanhvinh448.github.io/thanhvinhwp/wp-content/uploads/2021/09/images.png</url>
+	<title>Chưa phân loại &#8211; Thiết kế nội thất hiện đại</title>
+	<link>https://dothanhvinh448.github.io/thanhvinhwp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Xu Hướng Thiết Kế Nội Thất Phong Cách Mới</title>
 		<link>https://dothanhvinh448.github.io/thanhvinhwp/xu-huong-thiet-ke-noi-that-da-mau-sac/</link>
-					<comments>https://dothanhvinh448.github.io/thanhvinhwp/xu-huong-thiet-ke-noi-that-da-mau-sac/#respond</comments>
+					<comments>https://dothanhvinh448.github.io/thanhvinhwp/xu-huong-thiet-ke-noi-that-da-mau-sac/#comments</comments>
 		
 		<dc:creator><![CDATA[vinh]]></dc:creator>
 		<pubDate>Wed, 15 Sep 2021 05:16:19 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://dothanhvinh448.github.io/thanhvinhwp/?p=60</guid>
 
-					<description><![CDATA[Các phong cách thiết kế nội thất luôn được thay đổi và phát triển theo nhiều hướng khác nhau để bắt kịp với nhu cầu đa dạng của khách hàng. Một trong những phong cách mới thu hút sự quan tâm của nhiều người là phong cách thiết kế nội thất kết hợp sử dụng [&#8230;]]]></description>
+					<description><![CDATA[Các phong cách thiết kế nội thất luôn được thay đổi và phát triển theo nhiều hướng khác nhau để bắt kịp với nhu cầu đa dạng của khách hàng. Một trong những phong cách mới thu hút sự quan tâm của nhiều người là phong cách thiết kế nội thất kết hợp sử dụng...<p class="more-link-wrap"><a href="https://dothanhvinh448.github.io/thanhvinhwp/xu-huong-thiet-ke-noi-that-da-mau-sac/" class="more-link">Read More<span class="screen-reader-text"> &#8220;Xu Hướng Thiết Kế Nội Thất Phong Cách Mới&#8221;</span> &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="800" height="531" src="https://dothanhvinh448.github.io/thanhvinhwp/wp-content/uploads/2021/09/phong-da-mau-sac.jpg" alt="" data-id="11" data-full-url="https://dothanhvinh448.github.io/thanhvinhwp/wp-content/uploads/2021/09/phong-da-mau-sac.jpg" data-link="https://dothanhvinh448.github.io/thanhvinhwp/phong-da-mau-sac/" class="wp-image-11"/></figure></li></ul><figcaption class="blocks-gallery-caption"><em>Xu hướng thiết kế mới với sự kết hợp của những gam màu sắc khác nhau</em></figcaption></figure>
 
@@ -160,7 +168,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://dothanhvinh448.github.io/thanhvinhwp/xu-huong-thiet-ke-noi-that-da-mau-sac/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
