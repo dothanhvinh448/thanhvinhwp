@@ -4,32 +4,21 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
-	Comments for Thiết kế nội thất hiện đại	</title>
+	Bình luận cho Thiết kế nội thất hiện đại tại home decor	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dothanhvinh448.github.io/thanhvinhwp</link>
-	<description></description>
-	<lastBuildDate>Thu, 16 Sep 2021 06:46:14 +0000</lastBuildDate>
+	<description>website thuộc chủ sở hữu của đỗ thành vinh</description>
+	<lastBuildDate>Thu, 23 Sep 2021 13:30:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-	<item>
-		<title>
-		Comment on Xu Hướng Thiết Kế Nội Thất Phong Cách Mới by vinh		</title>
-		<link>https://dothanhvinh448.github.io/thanhvinhwp/xu-huong-thiet-ke-noi-that-da-mau-sac/#comment-2</link>
-
-		<dc:creator><![CDATA[vinh]]></dc:creator>
-		<pubDate>Thu, 16 Sep 2021 06:46:14 +0000</pubDate>
-		<guid isPermaLink="false">https://dothanhvinh448.github.io/thanhvinhwp/?p=60#comment-2</guid>
-
-					<description><![CDATA[vinh]]></description>
-			<content:encoded><![CDATA[<p>vinh</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
