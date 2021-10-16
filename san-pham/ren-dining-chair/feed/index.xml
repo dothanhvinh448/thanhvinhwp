@@ -4,16 +4,13 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	
 	>
 <channel>
 	<title>
 	Các phản hồi luận về: Rén Dining Chair	</title>
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/ren-dining-chair/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dothanhvinh448.github.io/thanhvinhwp/san-pham/ren-dining-chair/</link>
-	<description>website thuộc chủ sở hữu của đỗ thành vinh</description>
+	<description>website thuộc  sở hữu của ĐỖ THÀNH VINH</description>
 	<lastBuildDate>Sun, 26 Sep 2021 06:02:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

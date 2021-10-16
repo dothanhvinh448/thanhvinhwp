@@ -5,16 +5,13 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
 	<title>bàn &#8211; Thiết kế nội thất hiện đại tại home decor</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/ban/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dothanhvinh448.github.io/thanhvinhwp</link>
-	<description>website thuộc chủ sở hữu của đỗ thành vinh</description>
+	<description>website thuộc  sở hữu của ĐỖ THÀNH VINH</description>
 	<lastBuildDate>Fri, 01 Oct 2021 01:08:07 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
